@@ -1,5 +1,5 @@
 # Dertermine-IP-US-Country-EVM-Wallet-Node-Blacklist
-Blacklist US Based Wallets/Nodes Via EMB IP Determiner
+Blacklist US Based Wallets/Nodes Via EVM IP Determiner
 
 Permanent Solution To A Wallet/Node Owner Bypassing Restrictions.
 The problem with blocking US based users or nodes comes with various weak points the following is a blacklist function where when it’s determined a end user is trying to connect from the US, their wallet address is not only blocked from interacting with the smart contract, but they end users wallet becomes blacklisted so they can’t proceed with a bypass via spoofing or VPN’s. 
